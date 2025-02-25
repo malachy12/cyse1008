@@ -1,7 +1,8 @@
+import { useState } from 'react';
+
 import Box from '@mui/material/Box';
 import { StoreInfo } from './StoreInfo'; // Importing StoreInfo component
 import Button from '@mui/material/Button';
-import { useState } from 'react';
 
 export function HomeHeroCYSE1008() {
   const [count, setCount] = useState(0);
