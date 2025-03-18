@@ -2,6 +2,7 @@ import { useState } from 'react';
 
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
+
 import { StoreInfo } from './StoreInfo'; // Importing StoreInfo component
 import { ExtendedEuclideanAlgorithm } from './components/extended-euclidean-algorithm'; // Import the new component
 
